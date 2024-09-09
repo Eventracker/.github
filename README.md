@@ -1,1 +1,1 @@
-# .github
+# Eventracker tema
